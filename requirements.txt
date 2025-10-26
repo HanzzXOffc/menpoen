@@ -1,0 +1,12 @@
+tqdm
+requests
+telethon
+colorama
+pillow
+beautifulsoup4
+ffmpeg
+aiohttp
+aiofiles
+yt_dlp
+pycryptodome
+imageio
